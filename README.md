@@ -2,7 +2,7 @@
 
 Najważniejsze założenia
 
-Zadaniem tego projektu jest pokazanie moich umiejętnosći związanych z JavaScriptem, poprzez stworzenie gry Tic-Tac-toe
+Zadaniem tego projektu jest pokazanie moich umiejętnosci związanych z językiem JavaScript, poprzez stworzenie gry Tic-Tac-toe
 
 Używane technologie
 
